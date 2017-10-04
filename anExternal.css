@@ -1,0 +1,12 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+}
+
+.roundrect {
+	border-radius: 15px;
+	float: right;
+    margin: 0 0 10px 10px;
+}
